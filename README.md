@@ -107,7 +107,7 @@ Configure a Chave de API no Programa
 
 Abra o arquivo main.py localizado no diretório do programa clonado em um editor de texto.
 Localize a linha que contém api_key="YOUR API".
-Substitua "sua_chave_de_api_aqui" pela chave de API que você copiou anteriormente.
+Substitua pela chave de API que você copiou anteriormente.
 Salve o arquivo.
 Execute o Programa
 
